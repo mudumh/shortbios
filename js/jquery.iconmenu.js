@@ -3,9 +3,11 @@
 	var methods = {
 			init 	: function( options ) {
 				
+				
+				
+				
 				if( this.length ) {
-					console.log(this.length);
-					console.log($(this).attr("id"));
+					
 					
 					var settings = {
 						// configuration for the mouseenter event
@@ -106,9 +108,18 @@
 									);
 								});
 								// animate the bg color of the item
-								$wrapper.stop(true).animate({
+								if(options == "peoplelist"){
+
+									console.log("in peoplelist");
+								}
+								else{
+
+										$wrapper.stop(true).animate({
 									backgroundColor: settings.defaultTextColor
-								}, settings.boxAnimSpeed );
+									}, settings.boxAnimSpeed );
+
+								}
+								
 							
 							}, 100);	
 
@@ -143,10 +154,19 @@
 									$item.stop(true).animate({'top' : -dir * wrapper_h + 'px'}, speed, easing, function() {
 										
 										if( delay + speed === maxdelay ) {
-											
-											$wrapper.stop(true).animate({
+
+
+											if(options == "peoplelist"){
+
+												console.log("in peoplelist");
+											}
+											else{
+												$wrapper.stop(true).animate({
 												backgroundColor: settings.defaultBgColor
-											}, settings.boxAnimSpeed );
+												}, settings.boxAnimSpeed );
+												}
+											
+											
 											
 											$movingItems.each(function(i) {
 												var $el				= $(this),
@@ -155,7 +175,13 @@
 												if( $el.data('type') === 'icon' ) {
 													style.backgroundPosition	= 'top left';
 												} else {
-													style.color					= settings.defaultTextColor;
+													if(options == "peoplelist"){
+															
+													}
+													else{
+														style.color	= settings.defaultTextColor;
+													}
+													
 												}
 												
 												$el.hide().css(style).show();
@@ -172,13 +198,13 @@
 			}
 		};
 	
-	$.fn.iconmenu = function(method) {
+	$.fn.iconmenu = function(page_source,method) {
+		
 		
 
 		if ( methods[method] ) {
 			return methods[method].apply( this, Array.prototype.slice.call( arguments, 1 ));
 		} else if ( typeof method === 'object' || ! method ) {
-
 			
 			return methods.init.apply( this, arguments );
 		} else {
