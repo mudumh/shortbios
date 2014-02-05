@@ -3,7 +3,6 @@
 	width:1010px;
 	position:relative;
 	margin:60px auto 0 auto;
-	overflow: auto;
 }
 .sti-menu li{
 	float:left;
@@ -12,18 +11,18 @@
 	margin:1px;
 	
 }
-.sti-menu li#davinci{
+.sti-menu li#steve{
 	background-color:grey;
-	background: url('../images/artists/davinci.jpg') no-repeat center center ; 
+	background: url('../images/tech/steve.jpg') no-repeat center center ; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 
-.sti-menu li#michalengo{
+.sti-menu li#bill{
 	background-color:grey;
-	background: url('../images/artists/michalengo.jpg') no-repeat center center ; 
+	background: url('../images/tech/billgates.jpg') no-repeat center center ; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
