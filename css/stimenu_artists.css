@@ -29,7 +29,14 @@
 	-o-background-size: cover;
 	background-size: cover;
 }
-
+.sti-menu li#michalengo{
+	background-color:grey;
+	background: url('../images/artists/michalengo.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 .sti-menu li a{
 	display:block;
 	overflow:hidden;
@@ -69,4 +76,20 @@
 	opacity: 0.5;
 
 }
+.sti-menu li#pablo{
+	background-color:grey;
+	background: url('../images/artists/pablo.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
+.sti-menu li#johnlennon{
+	background-color:grey;
+	background: url('../images/artists/john-lennon.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
