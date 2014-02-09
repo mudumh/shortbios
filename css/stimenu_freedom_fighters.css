@@ -37,6 +37,16 @@
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+.sti-menu li#suu{
+	background-color:grey;
+	background: url('../images/freedom-fighters/suu.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 .sti-menu li a{
 	display:block;
 	overflow:hidden;

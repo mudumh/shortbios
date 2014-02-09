@@ -18,8 +18,7 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border: 4px solid black;
-	border-radius: 7px;
+	
 }
 
 .sti-menu li#bill{
@@ -29,8 +28,7 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border: 4px solid black;
-	border-radius: 7px;
+	
 }
 
 .sti-menu li#jeff{
@@ -40,8 +38,7 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border: 4px solid black;
-	border-radius: 7px;
+	
 }
 .sti-menu li#wozniak{
 	background-color:grey;
@@ -50,8 +47,7 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border: 4px solid black;
-	border-radius: 7px;
+	
 }
 .sti-menu li a{
 	display:block;
