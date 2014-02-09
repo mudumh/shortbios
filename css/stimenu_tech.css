@@ -18,6 +18,8 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	border: 4px solid black;
+	border-radius: 7px;
 }
 
 .sti-menu li#bill{
@@ -27,8 +29,30 @@
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	border: 4px solid black;
+	border-radius: 7px;
 }
 
+.sti-menu li#jeff{
+	background-color:grey;
+	background: url('../images/tech/jeff-bezos.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	border: 4px solid black;
+	border-radius: 7px;
+}
+.sti-menu li#wozniak{
+	background-color:grey;
+	background: url('../images/tech/wozniak.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	border: 4px solid black;
+	border-radius: 7px;
+}
 .sti-menu li a{
 	display:block;
 	overflow:hidden;
