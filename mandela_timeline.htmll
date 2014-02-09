@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Bill Gates</title>
+		<meta name="description" content="Blueprint: Vertical Timeline" />
+		<meta name="keywords" content="timeline, vertical, layout, style, component, web development, template, responsive" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico">
+		<link rel="stylesheet" type="text/css" href="timeline/css/default.css" />
+		<link rel="stylesheet" type="text/css" href="timeline/css/timeline.css" />
+		<script src="timeline/js/modernizr.custom.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<header class="clearfix">
+				<span>Nelson Mandel</span>
+				<h1>South African anti-apartheid revolutionarySouth African anti-apartheid revolutionary</h1>
+
+				<nav>
+					<a href="techvisionaries.html" class="icon-arrow-left" data-info="Back to Tech Visionaries "></a>
+					<a href="index.html" class="icon-drop" data-info="Home"></a>
+				</nav>
+			</header>	
+			<div class="main">
+				<ul class="cbp_tmtimeline">
+
+					<li>
+						<time class="cbp_tmtime" datetime="1452"><span>July 18</span> <span>1918</span></time>
+						<div class="cbp_tmicon cbp_tmicon-phone"></div>
+						<div class="cbp_tmlabel">
+							<h2>Birth</h2>
+							<p>Born Rolihlahla Mandela into Thembu royal family in Mvezo village in the south-east of South Africa.</p>
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-11T12:04"><span></span> <span>1940</span></time>
+						<div class="cbp_tmicon cbp_tmicon-screen"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Expelled from Fort Hare University College for participating in student strike.</p>
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-13 05:36"><span></span> <span>1941</span></time>
+						<div class="cbp_tmicon cbp_tmicon-mail"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Moves to Johannesburg, becomes mine policeman.</p>
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-15 13:15"><span></span> <span>1943</span></time>
+						<div class="cbp_tmicon cbp_tmicon-phone"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Joins African National Congress (ANC). </p>
+							
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1944</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Marries Evelyn Mase, trainee nurse.</p>
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1952</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p>
+								Opens first black law practice in Johannesburg with Oliver Tambo.
+							 </p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>December 5</span> <span>1956</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Among 156 political activists arrested and charged with treason.</p>
+						</div>
+					</li>
+
+
+
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1958</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Marries social worker Nomzamo Zaniewe Winifred "Winnie" Madikizela, having divorced Mase in 1954.</p>
+						</div>
+					</li>
+
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1960</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p>Security forces massacre 67 protesters in Sharpeville. Government bans ANC and Pan African Congress and declares state of emergency.</p>
+						</div>
+					</li>
+
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1961</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p> 	
+							Acquitted in treason trial, along with co-accused.
+							</p>
+						</div>
+					</li>
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1961</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p> 	
+							Launch of ANC's armed wing, Umkhonto we Sizwe (Spear of the Nation), with Mr Mandela as commander-in-chief.
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1962</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+							Captured and sentenced on November 7 to five years in prison for incitement to strike and leaving country illegally, having earlier travelled to Ethiopia and Algeria for military training.
+							</p>
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1964</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+							After famous speech from dock (democracy "is an ideal for which I am prepared to die"), is sentenced to life imprisonment and sent to Robben Island prison off Cape Town.
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span></span> <span>1990</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2></h2>
+							<p> 	
+						Released from prison.
+							</p>
+						</div>
+					</li>
+
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span> July 5</span> <span>1991</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						Elected ANC president.
+
+
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>October 15</span> <span>1993</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						Wins Nobel Peace Prize with De Klerk.
+
+
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>May 10</span> <span>1994</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						Inaugurated as president.
+
+
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>February 25</span> <span>2012</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						Admitted to hospital to treat a long-running abdominal complaint.
+
+
+							</p>
+						</div>
+					</li>
+					
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>January 6</span> <span>2013</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						Doctors say Mandela has "recovered" although he continues to receive care at his home in Johannesburg.
+
+
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>June 8</span> <span>2013</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						The 94-year-old returns to hospital with a new lung infection. His condition is reported as serious but stable.
+							</p>
+						</div>
+					</li>
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>June 8</span> <span>2013</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						The 94-year-old returns to hospital with a new lung infection. His condition is reported as serious but stable.
+							</p>
+						</div>
+					</li>
+
+
+
+					<li>
+						<time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>December 6</span> <span>2013</span></time>
+						<div class="cbp_tmicon cbp_tmicon-earth"></div>
+						<div class="cbp_tmlabel">
+							<h2> </h2>
+							<p> 	
+						Dies at his home in Johannesburg surrounded by family, at the age 95.
+							</p>
+						</div>
+					</li>
+					
+
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>

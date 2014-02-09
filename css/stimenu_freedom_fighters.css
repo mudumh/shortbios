@@ -1,0 +1,95 @@
+/*Sliding Text and Icon Menu Style*/
+.sti-menu{
+	width:1010px;
+	position:relative;
+	margin:60px auto 0 auto;
+	overflow: auto;
+}
+.sti-menu li{
+	float:left;
+	width:200px;
+	height:300px;
+	margin:1px;
+	
+}
+.sti-menu li#gandhi{
+	background-color:grey;
+	background: url('../images/freedom-fighters/gandhi.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.sti-menu li#mandela{
+	background-color:grey;
+	background: url('../images/freedom-fighters/mandela.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.sti-menu li#martin{
+	background-color:grey;
+	background: url('../images/freedom-fighters/martin.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.sti-menu li a{
+	display:block;
+	overflow:hidden;
+	background:#;
+	text-align:center;
+	height:100%;
+	width:100%;
+	position:relative;
+	-moz-box-shadow:1px 1px 2px #ddd;
+	-webkit-box-shadow:1px 1px 2px #ddd;
+	box-shadow:1px 1px 2px #ddd;
+}
+.sti-menu li a h2{
+	color:#fff;
+	font-family: 'Wire One', arial, serif; 
+	font-size:42px;
+	font-weight:bold;
+	text-transform:uppercase;
+	position:absolute;
+	padding:10px;
+	width:180px;
+	top:140px;
+	left:0px;
+	text-shadow: 0px 1px 1px black;
+	opacity: 0.5;
+}
+.sti-menu li a h3{
+	font-family: Baskerville, "Hoefler Text", Garamond, "Times New Roman", serif; 
+	font-size:18px;
+	font-style:italic;
+	color: #fff;
+	position:absolute;
+	top:248px;
+	left:0px;
+	width:180px;
+	padding:10px;
+	opacity: 0.5;
+
+}
+.sti-menu li#pablo{
+	background-color:grey;
+	background: url('../images/artists/pablo.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.sti-menu li#johnlennon{
+	background-color:grey;
+	background: url('../images/artists/john-lennon.jpg') no-repeat center center ; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
