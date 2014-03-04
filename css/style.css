@@ -1,9 +1,10 @@
 @import url('reset.css');
 body{
-	background:#f7f7f7 url(../images/pattern.png) repeat top left;
+	background:rgba(108,191,238,0.4) url(../images/pattern.png) repeat top left;
 	color:#000;
 	font-family:'Georgia', 'Trebuchet MS', serif;
 	font-size:12px;
+
 }
 a{
 	color:#000;
